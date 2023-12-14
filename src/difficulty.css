@@ -1,0 +1,18 @@
+.level {
+    padding: 5px 8px;
+    background: gray;
+    color: white;
+    border-radius: 8px;
+}
+
+.level-easy {
+    background: green;
+}
+
+.level-medium {
+    background: orange;
+}
+
+.level-nightmare {
+    background: red;
+}
